@@ -87,7 +87,7 @@ int main(int argc, char* args[]) {
 	// determining if inputs are valid
 	int n = c1;
 	if (c1 != r2) {
-		printf("ERROR: Invalid dimensions, these matrices cannot be multiplied.");
+		printf("ERROR: Invalid dimensions, these matrices cannot be multiplied.\n");
 		exit(1);
 	}
 
@@ -114,7 +114,7 @@ int main(int argc, char* args[]) {
 
 	// TODO: confirming answers using linear algebra library
 	if (debug) {
-		
+
 	}
 
 	return 0; // program completed successfully :)

@@ -13,4 +13,7 @@ build/mm tests/test3.txt 1
 echo -e "\n-------------------------\nTest 4:\n-------------------------\n"
 build/mm tests/test4.txt 1
 
+echo -e "\n-------------------------\nTest 5:\n-------------------------\n"
+build/mm tests/test5.txt 1
+
 echo -e "\nAll tests ran successfully."
