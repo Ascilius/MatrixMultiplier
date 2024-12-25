@@ -1,0 +1,1 @@
+- when editing inputs.txt, or any input file for the program, make sure to UNIX line endings
